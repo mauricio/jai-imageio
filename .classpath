@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/share/classes"/>
+	<classpathentry kind="lib" path="src/share/jclib4jai/clibwrapper_jiio.jar"/>
+	<classpathentry kind="lib" path="build/windows-i586/opt/lib/ext/clibwrapper_jiio.jar"/>
+	<classpathentry kind="lib" path="build/windows-i586/opt/lib/ext/jai_imageio.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
